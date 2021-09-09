@@ -16,6 +16,7 @@ ROT = -1
 #alfa = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',' ']
 alfa = "abcdefghijklmnopqrstuvwxyz "
 mode = ""
+#git test
 while mode != "Encode" and mode != "Decode":
     mode = input("Encode or Decode?\n")
 while ROT < 0:
